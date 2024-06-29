@@ -1,9 +1,5 @@
 # Harvested-Arecanut-Variety-Classification-using-ML
-Sure! Below is a detailed README for your GitHub repository, incorporating the information from your introduction and abstract. You can modify it as needed to better fit your project's specifics and preferences.
 
----
-
-# Automated Arecanut Classification and Detection
 
 ## Introduction
 
